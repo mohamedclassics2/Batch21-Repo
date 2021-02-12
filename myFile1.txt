@@ -1,1 +1,2 @@
-Adding from github, infinite loop of creating repo was very useful
+Adding from github.com, infinite loop of creating repo was very useful
+Adding more stuff from locally
